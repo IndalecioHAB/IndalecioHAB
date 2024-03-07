@@ -51,7 +51,7 @@ Aplicación Web Zelda Timeline
 Aplicación Web Juego De Memoria
 </h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.ibb.co/p3pcpQg/memoria.jpg" width="400" height="200" alt="Pokemon banner"></a>
+<a href="" target="_blank"><img src="https://i.ibb.co/809JKLF/fruta1.jpg" width="400" height="200" alt="Pokemon banner"></a>
 <br>
 <p>
 <a href="" target="_blank">
@@ -73,7 +73,7 @@ Aplicación Web Juego De Memoria
 Aplicación Web Bingo Javascript
 </h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.ibb.co/cvF5nZc/bingo1.jpg" width="400" height="200" alt="BingoJs imagen"></a>
+<a href="" target="_blank"><img src="https://i.ibb.co/WytC4hr/bingook.jpg" width="400" height="200" alt="BingoJs imagen"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
