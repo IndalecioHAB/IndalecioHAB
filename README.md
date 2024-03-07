@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg">
+  <img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg" style="border-radius:15">
   <br>
   <a href="https://www.linkedin.com/in/indalecio-lopez-castro/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80"   
