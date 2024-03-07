@@ -22,7 +22,7 @@
 ⚙ React.js <br>
 <br>
 
-## School Projects
+## Proyectos
 <table>
 <tr>
 <td width="50%">
