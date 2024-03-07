@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/hW6vcD7/fondo2.png">
+  <img src="https://i.ibb.co/zSGD9Hw/Portada.png">
   <br>
   <a href="https://www.linkedin.com/in/indalecio-lopez-castro/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80"   
