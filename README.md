@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/indalecio-lopez-castro/">Indalecio López</a> 👋</h1>
 </div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw0v3dg4MFpe3w763FVFP1Lj&ust=1709903794613000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCSxZSe4oQDFQAAAAAdAAAAABAE">
+<img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg">
 
-[![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALinkedIn_Logo.svg&psig=AOvVaw3Z4qUHFUC2GleLG6cfPRoN&ust=1709903910457000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDo2cue4oQDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/indalecio-lopez-castro/)
+[![LinkedIn]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALinkedIn_Logo.svg&psig=AOvVaw3Z4qUHFUC2GleLG6cfPRoN&ust=1709903910457000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDo2cue4oQDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg))](https://www.linkedin.com/in/indalecio-lopez-castro/)
 
 ## Sobre mi
 
