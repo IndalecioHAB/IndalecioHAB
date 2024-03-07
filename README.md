@@ -25,7 +25,7 @@ Aplicación Web Zelda Timeline
 </h3>
 <div align="center">
 <a href="" target="_blank">
-  <img src="https://i.ibb.co/F0fms32/zelda.jpg" width="400" height="400" alt="Zelda banner">
+  <img src="https://i.ibb.co/F0fms32/zelda.jpg" width="400" height="200" alt="Zelda banner">
 </a>
 <p>
 <a href="" target="_blank">
@@ -44,7 +44,7 @@ Aplicación Web Zelda Timeline
 Aplicación Web Juego De Memoria
 </h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.ibb.co/5GvkBfH/parejas-de-frutas.jpg" width="400" height="400" alt="Pokemon banner"></a>
+<a href="" target="_blank"><img src="https://i.ibb.co/5GvkBfH/parejas-de-frutas.jpg" width="400" height="200" alt="Pokemon banner"></a>
 <br>
 <p>
 <a href="" target="_blank">
@@ -65,7 +65,7 @@ Aplicación Web Juego De Memoria
 Aplicación Web Bingo Javascript
 </h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.ibb.co/vP6MxXQ/bingo.jpg" width="400" height="400" alt="BingoJs imagen"></a>
+<a href="" target="_blank"><img src="https://i.ibb.co/vP6MxXQ/bingo.jpg" width="400" height="200" alt="BingoJs imagen"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
@@ -80,7 +80,7 @@ Aplicación Web Bingo Javascript
 <td width="50%">
 <h3 align="center">Aplicación De Preguntas Y Respuestas</h3>
 <div align="center">
-<a href=""><img src="https://i.ibb.co/1QX7TDL/respuestas.jpg" width="400" height="400" alt="Rain prediction image"></a>
+<a href=""><img src="https://i.ibb.co/1QX7TDL/respuestas.jpg" width="400" height="200" alt="Rain prediction image"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=black">
