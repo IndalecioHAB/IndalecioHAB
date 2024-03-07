@@ -7,14 +7,13 @@
 
 ## Sobre mi
 
-🌐 Junior Full Stack Web developer
-🌐 Administrador De Sistemas Informáticos En Red (ASIR)
-📖 HTML5/CSS3.⁣
-📈 JavaScript from zero to advanced.⁣
-📝 database MySQL.⁣
-🗃 Node.js and Express.js.⁣
-⚙ React.js
-
+🌐 Junior Full Stack Web developer <br>
+🌐 Administrador De Sistemas Informáticos En Red (ASIR) <br>
+📖 HTML5/CSS3.⁣ <br>
+📈 JavaScript from zero to advanced.⁣ <br>
+📝 database MySQL.⁣ <br>
+🗃 Node.js and Express.js.⁣ <br>
+⚙ React.js <br>
 <br>
 
 ## Proyectos *bombitas*
