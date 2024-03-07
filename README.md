@@ -20,7 +20,6 @@
 📝 database MySQL.⁣ <br>
 🗃 Node.js and Express.js.⁣ <br>
 ⚙ React.js <br>
-<br>
 
 ## Proyectos
 <table>
