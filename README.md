@@ -16,16 +16,81 @@
 ⚙ React.js <br>
 <br>
 
-## Proyectos *bombitas*
+## School Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">
+Aplicación Web Zelda Timeline
+</h3>
+<div align="center">
+<a href="" target="_blank">
+  <img src="https://www.fayerwayer.com/resizer/VA3ot778K_EslywsU4qgch5_sQM=/800x0/filters:format(jpg):quality(70)/cloudfront-us-   east-1.images.arcpublishing.com/metroworldnews/Q7TS7UY4DVF7BA4CBPWL72E2VQ.jpg" width="400" alt="Zelda banner">
+</a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Aplicación web que obtiene información sobre los videojuegos Zelda a través de una API, almacena dicha información en el localStorage del navegador, permite añadir nuevos Videojuegos y muestra la información a través del Dom.
+</p>
+</div>
+                                                                                      
+</td>
 
+<td width="50%">
+               <br>
+<h3 align="center">
+Aplicación Web Juego De Memoria
+</h3>
+<div align="center">                                       
+<a href="" target="_blank"><img src="https://ibb.co/Jm2q5MJ" width="400" alt="Pokemon banner"></a>
+<br>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Aplicación web con un juego en el que debes descubrir las parejas de cartas que sean iguales, creada para ejercitar la memoria en niños.
+</p>
+</div>                                                             
+</table>                                                                                 
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">
+Aplicación Web Bingo Javascript
+</h3>
+<div align="center">
+<a href="" target="_blank"><img src="https://ibb.co/fpzTYDn" width="400" alt="BingoJs imagen"></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
+<p>Aplicación web que permite jugar al bingo tradicional de 1 a 90 números, éstos son aleatorios y no se pueden repetir. En un tablero aparecen los números cantados, además, usando la API Web Speech la aplicación canta los números en Castellano.
+</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Aplicación De Preguntas Y Respuestas</h3>
+<div align="center">
+<a href=""><img src="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nhjxygyi-1559831904.jpg?crop=1.00xw:1.00xh;0,0&resize=900:*" width="400" alt="Rain prediction image"></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Aplicación web que obtiene preguntas con sus respectivas respuestas de una Api. Debes adivinar la respuesta correcta.</p>
+</div>
+                                                                                      
+</td>  
+</table>               
+
+</div>
+<br>
