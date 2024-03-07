@@ -20,6 +20,7 @@
 <table>
 <tr>
 <td width="50%">
+
 <h3 align="center">
 Aplicación Web Zelda Timeline
 </h3>
@@ -39,7 +40,7 @@ Aplicación Web Zelda Timeline
 </td>
 
 <td width="50%">
-               <br>
+
 <h3 align="center">
 Aplicación Web Juego De Memoria
 </h3>
@@ -61,6 +62,7 @@ Aplicación Web Juego De Memoria
 <table>
 <tr>
 <td width="50%">
+
 <h3 align="center">
 Aplicación Web Bingo Javascript
 </h3>
@@ -78,6 +80,7 @@ Aplicación Web Bingo Javascript
 </td>       
 
 <td width="50%">
+
 <h3 align="center">Aplicación De Preguntas Y Respuestas</h3>
 <div align="center">
 <a href=""><img src="https://i.ibb.co/1QX7TDL/respuestas.jpg" width="400" height="200" alt="Rain prediction image"></a>
