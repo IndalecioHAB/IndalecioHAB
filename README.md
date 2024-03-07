@@ -73,7 +73,7 @@ Aplicación Web Juego De Memoria
 Aplicación Web Bingo Javascript
 </h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.ibb.co/WytC4hr/bingook.jpg" width="400" height="200" alt="BingoJs imagen"></a>
+<a href="" target="_blank"><img src="https://i.ibb.co/nrJW2Nv/finalbingo.jpg" width="400" height="200" alt="BingoJs imagen"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
