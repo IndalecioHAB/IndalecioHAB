@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/indalecio-lopez-castro/">Indalecio López</a> 👋</h1>
 </div>
-<img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg">
+<img align="center" src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg">
 
-[![LinkedIn]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALinkedIn_Logo.svg&psig=AOvVaw3Z4qUHFUC2GleLG6cfPRoN&ust=1709903910457000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDo2cue4oQDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg))](https://www.linkedin.com/in/indalecio-lopez-castro/)
+[![LinkedIn](https://img.freepik.com/vector-premium/logotipo-cuadrado-linkedin-aislado-sobre-fondo-blanco_469489-892.jpg?w=740)](https://www.linkedin.com/in/indalecio-lopez-castro/)
 
 ## Sobre mi
 
