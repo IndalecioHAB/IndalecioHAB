@@ -52,8 +52,7 @@ Aplicación Web Juego De Memoria
 <img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Aplicación web con un juego en el que debes descubrir las parejas de cartas formadas por emojis de frutas y verduras.
-Es un juego simple creado para ejercitar la memoria en niños.
+</p>Aplicación web con un juego en el que debes descubrir las parejas de cartas formadas por emojis de frutas y verduras. La ubicación de dichos emojis se genera de forma aleatoria. Es un juego simple creado para ejercitar la memoria en niños.
 </p>
 </div>                                                             
 </table>                                                                                 
