@@ -52,7 +52,8 @@ Aplicación Web Juego De Memoria
 <img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Aplicación web con un juego en el que debes descubrir las parejas de cartas que sean iguales, creada para ejercitar la memoria en niños.
+</p>Aplicación web con un juego en el que debes descubrir las parejas de cartas formadas por emojis de frutas y verduras.
+Es un juego simple creado para ejercitar la memoria en niños.
 </p>
 </div>                                                             
 </table>                                                                                 
@@ -89,7 +90,9 @@ Aplicación Web Bingo Javascript
 <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación web que obtiene preguntas con sus respectivas respuestas de una Api. Debes adivinar la respuesta correcta.</p>
+<p>Aplicación web que obtiene preguntas con sus respectivas respuestas de una Api. Debes adivinar la respuesta correcta.
+Además en todo momento sabrás en que pregunta te encuentras y cuántas de ellas acertaste.
+</p>
 </div>
                                                                                       
 </td>  
