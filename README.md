@@ -1,10 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/indalecio-lopez-castro/">Indalecio López</a> 👋</h1>
 </div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indalecio-lopez-castro/)
 <div align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg">
 </div>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indalecio-lopez-castro/)
 
 ## Sobre mi
 
