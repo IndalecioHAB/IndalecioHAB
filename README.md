@@ -4,9 +4,10 @@
 
 <div align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg">
+  <a href="https://www.linkedin.com/in/indalecio-lopez-castro/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="400" height="200" alt="Zelda banner">
+</a>
 </div>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indalecio-lopez-castro/)
 
 ## Sobre mi
 
