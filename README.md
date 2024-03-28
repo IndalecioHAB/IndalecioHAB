@@ -34,7 +34,7 @@ Aplicación Web Zelda Timeline
   <img src="https://i.ibb.co/F0fms32/zelda.jpg" width="400" height="200" alt="Zelda banner">
 </a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/IndalecioHAB/Zelda-Games" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -53,7 +53,7 @@ Aplicación Web Juego De Memoria
 <a href="" target="_blank"><img src="https://i.ibb.co/809JKLF/fruta1.jpg" width="400" height="200" alt="Pokemon banner"></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/IndalecioHAB/Memory-Game" target="_blank">
 <img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -72,7 +72,7 @@ Aplicación Web Juego De Memoria
 Aplicación Web Bingo Javascript
 </h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.ibb.co/nrJW2Nv/finalbingo.jpg" width="400" height="200" alt="BingoJs imagen"></a>
+<a href="https://github.com/IndalecioHAB/BingoJs" target="_blank"><img src="https://i.ibb.co/nrJW2Nv/finalbingo.jpg" width="400" height="200" alt="BingoJs imagen"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
@@ -90,7 +90,7 @@ Aplicación Web Bingo Javascript
 <div align="center">
 <a href=""><img src="https://i.ibb.co/1QX7TDL/respuestas.jpg" width="400" height="200" alt="Rain prediction image"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/IndalecioHAB/Answers-Game" target="_blank">
 <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -107,7 +107,7 @@ Además en todo momento sabrás en que pregunta te encuentras y cuántas de ella
 <div align="center">
 <a href=""><img src="https://i.ibb.co/sJ630fW/reclutadores.jpg"  width="400" height="200" alt="App image"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/IndalecioHAB/recruit-soccer-player" target="_blank">
 <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
