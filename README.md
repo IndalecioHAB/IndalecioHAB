@@ -74,7 +74,7 @@ Aplicación Web Bingo Javascript
 <div align="center">
 <a href="https://github.com/IndalecioHAB/BingoJs" target="_blank"><img src="https://i.ibb.co/nrJW2Nv/finalbingo.jpg" width="400" height="200" alt="BingoJs imagen"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/IndalecioHAB/BingoJs" target="_blank">
 <img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
