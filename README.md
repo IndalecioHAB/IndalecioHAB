@@ -100,7 +100,7 @@ Además en todo momento sabrás en que pregunta te encuentras y cuántas de ella
 </div>
                                                                                       
 </td> 
-
+<tr>
 <td width="50%">
 
 <h3 align="center">Aplicación Ojeadores Deportivos</h3>
@@ -115,6 +115,7 @@ Además en todo momento sabrás en que pregunta te encuentras y cuántas de ella
 </div>
                                                                                       
 </td>  
+</tr>
 </table>               
 
 </div>
