@@ -99,6 +99,21 @@ Además en todo momento sabrás en que pregunta te encuentras y cuántas de ella
 </p>
 </div>
                                                                                       
+</td> 
+
+<td width="50%">
+
+<h3 align="center">Aplicación Ojeadores Deportivos</h3>
+<div align="center">
+<a href=""><img src="https://i.ibb.co/sJ630fW/reclutadores.jpg"  width="400" height="200" alt="App image"></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Plataforma donde conectamos jóvenes futbolistas con ojeadores, teniendo los primeros un catálogo de videos subidos por las familias.</p>
+</div>
+                                                                                      
 </td>  
 </table>               
 
